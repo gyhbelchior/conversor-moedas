@@ -17,7 +17,7 @@
 
 
 ## 📄 Descrição
-Projeto Front-End que implementa um conversor de moedas, permitindo ao usuário digitar um valor em Real (R$) e visualizar o valor convertido em outras moedas como Dólar, Euro, Libra e Iene. A interface é simples e responsiva, com foco em interatividade e boas práticas de HTML, CSS e JavaScript.
+Projeto Front-End que implementa um conversor de moedas, permitindo ao usuário inserir um valor em Real (R$) e visualizar o valor convertido em outras moedas como Dólar, Euro, Libra e Iene. A interface é simples e responsiva, com foco em interatividade e boas práticas de HTML, CSS e JavaScript.
  
 
 
@@ -36,7 +36,7 @@ Projeto Front-End que implementa um conversor de moedas, permitindo ao usuário 
 - **HTML5** 
 
 - **CSS3**
-- 
+ 
 - **JavaScript**
 
 <br/> </br> 
@@ -53,7 +53,7 @@ Praticar manipulação do DOM com JavaScript, estruturação semântica com HTML
 
 <br/> </br> 
 ## 📌 Status do Projeto
-✅ Concluído — sujeito a melhorias futuras conforme evolução dos estudos.
+✅ Concluído — aberto a melhorias futuras conforme evolução dos estudos.
 
 
 
